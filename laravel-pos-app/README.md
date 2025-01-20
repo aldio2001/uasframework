@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-pos-app.git project-name
+  git clone https://github.com/aldio2001/uasframework.git project-name
 ```
 
 Go to the project directory
